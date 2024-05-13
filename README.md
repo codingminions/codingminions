@@ -10,7 +10,7 @@
 ### About Me! 👋
 
 - 🔭 I’m currently working on creating a multimodal search application for all your personalized documents and images using Pg-vector. 
-- 🌱 I’m currently learning and implementing all the exercises from the Rustlings repository.
+- 🌱 I’m currently learning and implementing all the exercises from the [Rustlings](https://github.com/codingminions/rustlingsSolutions/tree/main) repository.
 - 🤔 I’m looking for help to understand the best-fit architecture elements for applications running a RAG model. 
 - 👯 I’ll be happy to collaborate on building a highly-available distributed backend system. 
 - 📫 **How to reach me**: prateek.v12f@gmail.com
